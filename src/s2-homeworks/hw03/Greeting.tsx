@@ -71,3 +71,5 @@ const Greeting: React.FC<GreetingPropsType> = (
 }
 
 export default Greeting
+
+//kom
